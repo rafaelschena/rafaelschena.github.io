@@ -1,0 +1,102 @@
+# Site settings
+title: Rafael Schena
+email: rafaelschena@gmail.com
+url: https://github.com/jeromelachaud/freelancer-theme
+description: "Rafael Schena. Engenheiro Eletricista. Cientista de Dados. Mestrando em Ciências da Computação."
+keywords: "engineer, data scientist, engenheiro, cientista de dados, inteligência artificial"
+skills: "Rafael Schena. Engenheiro Eletricista. Cientista de Dados. Mestrando em Ciências da Computação."
+meta_author: Schena Rafael
+formspree_endpoint: https://formspree.io/f/mwkwwvbv
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: AFAAB9 #80B3FF
+  primary-rgb: "175, 170, 185" #"128,179,255"
+  secondary: 1B9AAA #FD6E8A
+  secondary-dark: 363636 #A2122F
+
+# About settings
+about:
+  text-1: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  text-2: "Praesent rhoncus, ipsum vel mollis consectetur, lorem libero auctor turpis, in vestibulum metus sapien id nisi. Quisque sagittis id felis venenatis malesuada. Ut auctor libero mi, nec molestie erat bibendum ut. Nam rutrum justo sed ipsum congue venenatis. In pellentesque tellus purus, id molestie enim elementum ut. Morbi eget neque turpis. Curabitur mollis pharetra quam eu sodales. Suspendisse facilisis dolor sed magna vestibulum, ut varius sem semper. Donec dolor purus, elementum at feugiat non, tristique a ex. Praesent suscipit odio at sapien commodo maximus. Nunc placerat viverra ex, in consequat diam dapibus vitae. Donec tincidunt interdum rutrum. Sed et elit ut nisi pharetra scelerisque vel quis lorem. Aliquam sed erat id sapien fermentum dapibus sit amet eget felis. Integer dignissim eleifend lacinia."
+
+# Habilidades settings
+habilidades:
+  text-1: "Donec iaculis turpis at eros sagittis, et suscipit dui gravida. Mauris congue ornare neque, id dignissim neque venenatis facilisis. Aenean in venenatis quam. Duis quis ante placerat, suscipit metus et, vehicula nulla. Morbi lobortis urna ac rhoncus dictum. Phasellus sed nulla nisi. Proin in dui nec turpis facilisis pretium sed eu enim. Nulla vel ante luctus, consequat turpis at, sollicitudin ligula. Donec pharetra, tellus nec finibus consequat, ante mauris pretium nibh, at tincidunt quam lacus ut dui."
+  text-2: "Mauris nunc orci, finibus in dui non, consectetur varius diam. Duis rhoncus orci ante, in euismod mi mattis a. Mauris nec ullamcorper diam. Vestibulum in nunc urna. Aliquam arcu lectus, faucibus ut nisi at, condimentum maximus nulla. Suspendisse id ultrices justo. Fusce vitae ligula ut lectus tempus semper. Suspendisse eu ex tempus, viverra diam ac, pulvinar nisi."
+
+# Curriculo settings
+curriculo:
+  text-1: "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum in magna lorem. Nullam placerat feugiat enim. Aenean vulputate laoreet ullamcorper. Fusce diam neque, vehicula sit amet porta vel, vulputate in metus. Sed at tristique nulla. Nunc ac lobortis nisi. Donec lacinia sem ut ultricies gravida. Donec facilisis velit eu lacus tempus, eu pulvinar ex sagittis. In lacinia ligula vitae mi faucibus viverra. Sed libero erat, iaculis non commodo in, auctor mollis nisi. Morbi tempor nec mi et efficitur.
+1. One
+2. Two
+3. Three"
+  text-2: "Sed maximus vel est nec molestie. Praesent commodo aliquet enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed iaculis faucibus mi ut blandit. Fusce ac turpis est. Fusce nec tellus leo. Nam at nisi metus. Ut quis aliquet sapien, quis cursus nunc.
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this"
+
+
+# Footer settings
+footer:
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/rafaelschena
+  - title: linkedin
+    url: https://www.linkedin.com/in/rafaelschena/
+  - title: github
+    url: https://github.com/rafaelschena
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
