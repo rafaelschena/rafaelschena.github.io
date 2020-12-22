@@ -7,6 +7,7 @@ keywords: "engineer, data scientist, engenheiro, cientista de dados, inteligênc
 skills: "Rafael Schena. Engenheiro Eletricista. Cientista de Dados. Mestrando em Ciências da Computação."
 meta_author: Schena Rafael
 formspree_endpoint: https://formspree.io/f/mwkwwvbv
+phone: +55(38)99175-8891
 
 # Google webmaster tools
 google_verify:
@@ -43,20 +44,36 @@ habilidades:
 
 # Curriculo settings
 curriculo:
-  text-1: "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum in magna lorem. Nullam placerat feugiat enim. Aenean vulputate laoreet ullamcorper. Fusce diam neque, vehicula sit amet porta vel, vulputate in metus. Sed at tristique nulla. Nunc ac lobortis nisi. Donec lacinia sem ut ultricies gravida. Donec facilisis velit eu lacus tempus, eu pulvinar ex sagittis. In lacinia ligula vitae mi faucibus viverra. Sed libero erat, iaculis non commodo in, auctor mollis nisi. Morbi tempor nec mi et efficitur.
-1. One
-2. Two
-3. Three"
-  text-2: "Sed maximus vel est nec molestie. Praesent commodo aliquet enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed iaculis faucibus mi ut blandit. Fusce ac turpis est. Fusce nec tellus leo. Nam at nisi metus. Ut quis aliquet sapien, quis cursus nunc.
-* Start a line with a star
-* Profit!
+  text-1: <b>Formação</b><br />
+            <ul>
+            <li>Mestrando em Ciências da Computação - Universidade Federal do Rio Grande do Sul (UFRGS) -
+            (2021 - atual)</li><br />
+            <li>Pós-graduação em Equipamentos Elétricos Aplicados à Indústria de Petróleo e Gás Natural -
+            (2012-2013)</li><br />
+            <li>Engenheiro Eletricista - Universidade de Brasília (UnB) - (2003-2007)</li></ul><br />
+            <br />
+          <b>Cursos complementares</b><br />
+            <ul>
+            <li>Big Data Analytics com R e MicrosoftAzure Machine Learning<br />Data Science Academy - Novembro/2020</li><br />
+            <li>Big Data Fundamentos 2.0<br />Data Science Academy - Setembro/2020</li><br />
+            <li>Introdução à Ciência de Dados 2.0<br />Data Science Academy - Setembro/2020</li><br />
+            <li>Python Fundamentos para Análise de Dados<br />Data Science Academy - Agosto/2020</li><br />
+            <li>Green Belt - Lean Six Sigma<br />Setec Consulting Group - Junho/2016</li>
+            </ul>
 
-Alternatively,
-
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this"
+  text-2: <b>Experiências</b><br />
+            <ul>
+            <li>Giraffas - Franqueado<br />
+                (Junho/2018 a Maio/2020)</li><br />
+            <li>Petrobras Transporte S.A. - Engenheiro de Equipamentos<br />
+                (Maio/2012 a Maio/2018)</li><br />
+            <li>Escola Técnica de Paracatu (Unitec) - Professor<br />
+                (Junho/2011 a Abril/2012)</li><br />
+            <li>Votorantim Metais - Engenheiro<br />
+                (Janeiro/2008 a Março/2011)<br />
+            </ul>
+            <b>Mais detalhes em:<br />
+            <a href="https://www.linkedin.com/in/rafaelschena/" target="_blank" style="color:blue">https://www.linkedin.com/in/rafaelschena/</a></b>
 
 
 # Footer settings
