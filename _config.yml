@@ -33,13 +33,29 @@ color:
 
 # About settings
 about:
-  text-1: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-  text-2: "Praesent rhoncus, ipsum vel mollis consectetur, lorem libero auctor turpis, in vestibulum metus sapien id nisi. Quisque sagittis id felis venenatis malesuada. Ut auctor libero mi, nec molestie erat bibendum ut. Nam rutrum justo sed ipsum congue venenatis. In pellentesque tellus purus, id molestie enim elementum ut. Morbi eget neque turpis. Curabitur mollis pharetra quam eu sodales. Suspendisse facilisis dolor sed magna vestibulum, ut varius sem semper. Donec dolor purus, elementum at feugiat non, tristique a ex. Praesent suscipit odio at sapien commodo maximus. Nunc placerat viverra ex, in consequat diam dapibus vitae. Donec tincidunt interdum rutrum. Sed et elit ut nisi pharetra scelerisque vel quis lorem. Aliquam sed erat id sapien fermentum dapibus sit amet eget felis. Integer dignissim eleifend lacinia."
+  text-1: "Engenheiro Eletricista formado pela Universidade de Brasília em 2007. Possui experiência na área de manutenção industrial, onde atuou por 3 anos na área de mineração (Votorantim Metais) e 6 anos na área de óleo e gás (Petrobras Transporte S.A.). Possui especialização em equipamentos elétricos industriais da indústria de óleo e gás natural. Nas atividades como engenheiro, sempre atuou com análise de dados, inclusive com a metodologia 6 Sigma."
+  text-2: "Atualmente, cursa mestrado em Ciências da Computação pela Universidade Federal do Rio Grande do Sul (UFGRS), pesquisando na área de Inteligência Artificial. Seus interesses maiores estão em desenvolver aplicações de Ciência de Dados e Inteligência Artificial para negócios, especialmente aplicações para o mercado financeiro, marketing digital, indústria de energia e manutenção industrial."
 
 # Habilidades settings
 habilidades:
-  text-1: "Donec iaculis turpis at eros sagittis, et suscipit dui gravida. Mauris congue ornare neque, id dignissim neque venenatis facilisis. Aenean in venenatis quam. Duis quis ante placerat, suscipit metus et, vehicula nulla. Morbi lobortis urna ac rhoncus dictum. Phasellus sed nulla nisi. Proin in dui nec turpis facilisis pretium sed eu enim. Nulla vel ante luctus, consequat turpis at, sollicitudin ligula. Donec pharetra, tellus nec finibus consequat, ante mauris pretium nibh, at tincidunt quam lacus ut dui."
-  text-2: "Mauris nunc orci, finibus in dui non, consectetur varius diam. Duis rhoncus orci ante, in euismod mi mattis a. Mauris nec ullamcorper diam. Vestibulum in nunc urna. Aliquam arcu lectus, faucibus ut nisi at, condimentum maximus nulla. Suspendisse id ultrices justo. Fusce vitae ligula ut lectus tempus semper. Suspendisse eu ex tempus, viverra diam ac, pulvinar nisi."
+  text-1: <b>Proficiente em:</b><br />
+            <ul>
+            <li>Ciência de Dados</li>
+            <li><i>Machine Learning</i></li>
+            <li>Python</li>
+            <li>R</li>
+            <li>Apache Spark</li>
+            <li>Apache Hadoop</li>
+            </ul>
+  text-2: <b>Familiar com:</b><br />
+            <ul>
+            <li>Engenharia de Dados</li>
+            <li>MongoDB</li>
+            <li><i>Deep Learning</i></li>
+            <li>Tensorflow</li>
+            <li>Design de <i>Dashboards</i></li>
+            <li>SQL</li>
+            </ul>
 
 # Curriculo settings
 curriculo:
@@ -77,15 +93,15 @@ curriculo:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Dr. Henry Jekyll | 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+  location: Onde me encontrar
+  social: Meu trabalho na Web
+  credits: Other Languages
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/rafaelschena
+  - title: youtube
+    url: https://youtube.com
   - title: linkedin
     url: https://www.linkedin.com/in/rafaelschena/
   - title: github
@@ -99,11 +115,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Porto Alegre
+  - line: Rio Grande do Sul - Brasil
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '<a href="http://startbootstrap.com" style="color:white">English</a>'
 
 # Build settings
 markdown: kramdown
