@@ -4,7 +4,7 @@ email: rafaelschena@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Engenheiro Eletricista. Cientista de Dados."
 keywords: "engineer, data scientist, engenheiro, cientista de dados, inteligência artificial"
-skills: "Engenheiro Eletricista. Cientista de Dados."
+skills: "Engenheiro Eletricista. Cientista de Dados. Mestrando em Ciência da Computação"
 meta_author: Schena Rafael
 phone: +55(38)99175-8891
 
@@ -34,7 +34,7 @@ color:
 # About settings
 about:
   text-1: "Engenheiro Eletricista formado pela Universidade de Brasília em 2007. Possui experiência na área de manutenção industrial, onde atuou por 3 anos na área de mineração (Votorantim Metais) e 6 anos na área de óleo e gás (Petrobras Transporte S.A.). Possui especialização em equipamentos elétricos industriais da indústria de óleo e gás natural. Nas atividades como engenheiro, sempre atuou com análise de dados, inclusive com a metodologia 6 Sigma."
-  text-2: "Atualmente, é entusiasta da área de Ciência de Dados, pesquisando na área de Inteligência Artificial. Seus interesses maiores estão em desenvolver aplicações de Ciência de Dados e Inteligência Artificial para negócios, especialmente aplicações para o mercado financeiro, marketing digital, indústria de energia e manutenção industrial."
+  text-2: "Seus interesses maiores estão em desenvolver aplicações de Ciência de Dados e Inteligência Artificial para negócios, especialmente aplicações para o mercado financeiro, indústria 4.0, indústria de energia e manutenção industrial. Entusiasta da área de Ciência de Dados, atualmente é mestrando em Ciência da Computação na Universidade Federal do Rio Grande do Sul (UFRGS), pesquisa na área de Inteligência Artificial e Mineração de Dados em um projeto desta universidade visando o desenvolvimento de Gêmeos Digitais de plataformas de petróleo."
 
 # Habilidades settings
 habilidades:
@@ -61,6 +61,8 @@ habilidades:
 curriculo:
   text-1: <b>Formação</b><br />
             <ul>
+            <li>Mestrado em Ciência da Computação - Universidade Federal do Rio Grande do Sul (UFRGS) -
+            (2021- presente)</li><br />
             <li>Pós-graduação em Equipamentos Elétricos Aplicados à Indústria de Petróleo e Gás Natural -
             (2012-2013)</li><br />
             <li>Engenheiro Eletricista - Universidade de Brasília (UnB) - (2003-2007)</li></ul><br />

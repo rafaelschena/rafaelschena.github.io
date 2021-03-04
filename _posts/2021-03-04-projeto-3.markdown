@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2020-12-04
+img: projeto3.png
+alt: image-alt
+project-date: March 2021
+category: Projeto
+description: Neste projeto, serão utilizados dados fornecidos pelo Banco Santander para previsão do nível de satisfação do cliente no início do relacionamento dele com a instituição. Isso permitiria que o Santander adotasse medidas proativas para melhorar a felicidade de um cliente antes que seja tarde demais. O objetivo é prever a satisfação do cliente com base nos dados fornecidos e a acurácia do modelo deve ser de, pelo menos, 70%.
+
+page: https://github.com/rafaelschena/satisfacao_clientes_santander
+report: https://github.com/rafaelschena/satisfacao_clientes_santander#prevendo-o-n%C3%ADvel-de-satisfa%C3%A7%C3%A3o-dos-clientes-do-santander
+---
