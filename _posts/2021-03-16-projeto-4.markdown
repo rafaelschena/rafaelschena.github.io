@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2021-03-16
+img: projeto4.png
+alt: image-alt
+project-date: March 2021
+category: Projeto
+description: O objetivo é trabalho é criar um modelo de aprendizagem de máquina que possa prever se um cliente pode ou não cancelar seu plano e qual a probabilidade de isso ocorrer.
+
+page: https://github.com/rafaelschena/telecom_churn
+report: https://github.com/rafaelschena/telecom_churn#prevendo-a-rotatividade-de-clientes-de-uma-empresa-de-telecom
+---
