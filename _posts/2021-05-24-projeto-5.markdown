@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2021-05-24
+img: projeto5.png
+alt: image-alt
+project-date: May 2021
+category: Projeto
+description: O objetivo deste projeto é implementar um data warehouse rodando sobre um data lake com Apache Hadoop, transferindo os dados de um banco de dados MySQL para o Apache Hive rodando sobre o sistema de arquivos HDFS de um cluster Hadoop.
+
+page: https://github.com/rafaelschena/data_lake_data_warehouse
+report: https://github.com/rafaelschena/data_lake_data_warehouse#data-warehouse-com-apache-hive
+---
