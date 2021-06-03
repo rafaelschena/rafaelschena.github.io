@@ -10,3 +10,4 @@ description: O objetivo deste projeto é criar um pipeline de dados em streaming
 
 page: https://github.com/rafaelschena/real_time_logs_flume_spark
 report: https://github.com/rafaelschena/real_time_logs_flume_spark#processamento-de-streaming-de-dados-em-tempo-real-com-apache-hadoop-apache-flume-e-spark-streaming
+---
