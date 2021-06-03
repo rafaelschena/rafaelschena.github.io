@@ -4,7 +4,7 @@ modal-id: 6
 date: 2021-06-03
 img: projeto6.png
 alt: image-alt
-project-date: May 2021
+project-date: June 2021
 category: Projeto
 description: O objetivo deste projeto é criar um pipeline de dados em streaming com processamento em tempo real utilizando ferramentas do ecossistema Hadoop, como o Apache Flume para ingestão de dados, o sistema de arquivos HDFS do Hadoop para armazenamento em cluster e Apache Spark para processamento em tempo real. Como fonte de dados em tempo real será utilizado o Twitter, que será acessado através da API para o Apache Flume.
 
